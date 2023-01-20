@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Monipoo0904
 - 👀 I’m interested in VR, AR, Machine Learning and Python
-- 🌱 I’m currently learning VR Game Development
+- 🌱 I’m currently learning VR Game Development, Machine Learning, and CLoud Computing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
