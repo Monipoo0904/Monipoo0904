@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Monipoo0904, Monique Reed
-- 👀 I’m interested in Machine Learning and AI. Thats as far as it's going to get.
+- 👋 Hi, I’m @Monipoo0904, Legally, Monique Reed
+- 👀 I’m interested in Data Science, Machine Learning and AI. Thats as far as it's going to get.
 - 🌱 I’m currently learning Machine Learning. But I am also learning how to cook on the cooktop.
 
  - I am aware that github is a great place to showcase your personal coding projects but I have spent the past 4 years of my life, and money working fulltime while getting a bechelor's degree. therefore, my school projects are my personal projects. I am not wonderwoman. Get lost and enjoy.
